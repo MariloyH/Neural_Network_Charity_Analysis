@@ -23,7 +23,9 @@ In this project we will help Alphabet Soup, a nonprofit organization that raise 
   -  80 neurons in the first layer and 30 neurons in the second
   -  A "sigmoid" as a output activate function, due it our model has one binary output, "IS_SUCCESFUL".
  This model reached an accuracy of  **72.45%**, not bad, but not the 75% requested, and a lost of **56.49%**
- <img width="550" alt="First Model Performance" src="https://user-images.githubusercontent.com/102195803/188955222-837b7068-0048-4846-9840-5f23944c63d9.png">
+ 
+ 
+<img width="550" alt="C" src="https://user-images.githubusercontent.com/102195803/188955801-87d5679f-20d5-4114-ac66-56fa8d1915e6.png">
 
  
 
@@ -35,9 +37,11 @@ In this project we will help Alphabet Soup, a nonprofit organization that raise 
      *  Layer 1 with relu and Layers 2 and 3 with sigmoid as activate function.  
      
  This model had an accuracy of **78.54 %** and a lost improvement of **44%**.
+ 
  <img width="660" alt="Optimazed Model" src="https://user-images.githubusercontent.com/102195803/188955119-f9259613-c9a3-45a3-8f07-77005ab71e96.png">
 
-     <img width="550" alt="Optimazed Model Performance" src="https://user-images.githubusercontent.com/102195803/188954962-6a73511a-9009-46b1-8795-c6d22714f013.png">
+ <img width="550" alt="OM Performance" src="https://user-images.githubusercontent.com/102195803/188955688-265b9fca-07d9-41b1-a287-a5e0966999ee.png">
+
  
 
 # Summary
