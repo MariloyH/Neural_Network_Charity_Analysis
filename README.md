@@ -1,7 +1,7 @@
 # Neural Networks and Deep Learning Models
 
 # Overview
- in this project we will help Alphabet Soup, a nonprofit organization that recauda fondos para organizaciones beneficas, to analyze which organizations are worth for donating, i.e., they were successful in the past.  We started from a CSV database with all the organizations that received funds  from Alphabet soup over the yaers. We will design a Deep Learning Neural Network Model using Python TensorFlow library.
+In this project we will help Alphabet Soup, a nonprofit organization that raise funds for charities to analyze which organizations are worth for donating, review their history and which of them were successful in the past.  We started from a CSV database with all the organizations that received funds  from Alphabet soup over the years and we will develop a Deep Learning Neural Network Model using Python TensorFlow library.
 
  # Results
  ## Data Preprocessing 
