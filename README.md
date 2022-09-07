@@ -16,14 +16,15 @@ In this project we will help Alphabet Soup, a nonprofit organization that raise 
 
  # Compiling, Training and Evaluating the Model.
  
- <img width="668" alt="Compiling Model" src="https://user-images.githubusercontent.com/102195803/188954272-fd2528cd-16e5-4ef1-a8fa-47c613745934.png">
+ <img width="660" alt="Compiling Model" src="https://user-images.githubusercontent.com/102195803/188954272-fd2528cd-16e5-4ef1-a8fa-47c613745934.png">
 
  For the first model, I selected:
   -  2 hidden layers with "relu" activation function for training because its simple a first approach, and a "sigmoid" as the second.  
   -  80 neurons in the first layer and 30 neurons in the second
   -  A "sigmoid" as a output activate function, due it our model has one binary output, "IS_SUCCESFUL".
  This model reached an accuracy of  **72.45%**, not bad, but not the 75% requested, and a lost of **56.49%**
- 
+ <img width="550" alt="First Model Performance" src="https://user-images.githubusercontent.com/102195803/188955222-837b7068-0048-4846-9840-5f23944c63d9.png">
+
  
 
  For increase the model performance, I made this changes:
@@ -32,10 +33,12 @@ In this project we will help Alphabet Soup, a nonprofit organization that raise 
      *  I reestablished the NAME column and I kept the other variables the same: 
      *  3 layers with 80, 30, and 10 neurons. 
      *  Layer 1 with relu and Layers 2 and 3 with sigmoid as activate function.  
+     
  This model had an accuracy of **78.54 %** and a lost improvement of **44%**.
+ <img width="660" alt="Optimazed Model" src="https://user-images.githubusercontent.com/102195803/188955119-f9259613-c9a3-45a3-8f07-77005ab71e96.png">
+
+     <img width="550" alt="Optimazed Model Performance" src="https://user-images.githubusercontent.com/102195803/188954962-6a73511a-9009-46b1-8795-c6d22714f013.png">
  
-    <img width="550" alt="Final Model Accuracy" src="https://user-images.githubusercontent.com/102195803/188954400-076b66d6-9af9-457c-9251-be992ac15323.png">
-      
 
 # Summary
 Optimizing the model we exceeded the accuracy of 75%! So, this model  has an accuracy of 78.54%  to determine if an applicant orgaization will be successful!
